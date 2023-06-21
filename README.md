@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="150"/>
+  <img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg" height="150"/>
 </p>
 <h1 align="center">Hi , I'm Archana Kumari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 <p align="center">
