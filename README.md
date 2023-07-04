@@ -11,7 +11,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a final year ` student `of `Computer Science and Engineering` at `National Institute of Technology Patna`
-- 🕸️: https://archana-portfolio.ml/       [Live](https://willowy-moonbeam-f664a3.netlify.app/)
+- 🕸️: [Live] (https://willowy-moonbeam-f664a3.netlify.app/)
 - :technologist: I love to do `competitive programming` and `web development`
 - :student: I’m currently learning: `MERN`, `Next.js`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is `[MY RESUME]`(https://drive.google.com/file/d/1Xz9sY5Z2j8GtdHKgKsVE-ptsxxP-WN2m/view?usp=drive_link).
